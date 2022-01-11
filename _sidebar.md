@@ -3,6 +3,10 @@
   - [快速开始](/src/0002.md)
   - [output中的path](/src/0020.md)
   - [devServe中的path](/src/0021.md)
+  - [devServe常用的配置](/src/0022.md)
+  - [resolve模块解析规则](/src/0023.md)
+  - [source-map](/src/0024.md)
+  - [devtool详情说明](/src/0025.md)
 
 - loader
   - [loader](/src/0003.md)
