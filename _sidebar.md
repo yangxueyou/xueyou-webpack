@@ -7,6 +7,7 @@
   - [resolve模块解析规则](/src/0023.md)
   - [source-map](/src/0024.md)
   - [devtool详情说明](/src/0025.md)
+  - [区分打包环境](/src/0027.md)
 
 - loader
   - [loader](/src/0003.md)
@@ -16,6 +17,7 @@
   - [file-loader](/src/0007.md)
   - [url-loader](/src/0009.md)
   - [babel-loader](/src/0012.md)
+  - [ts-loader](/src/0026.md)
 
 - 插件
   - [简介](/src/0011.md)
